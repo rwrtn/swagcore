@@ -1,3 +1,15 @@
+# swagcore
+## Geometry Dash Private Server Core/Emulator
+Made as personal core for latteru's GDPSes.
+
+Best attempt at creating core ever by someone who is newbie in php.
+
+https://swagcore.latteru.ru
+## Made with love and jalapeno chips!!!!
+while making this core latteru literary was eating "Just Brutal"'s Potato Chips Jalapeno & Cheese.
+
+# ------OG README DOWN HERE------
+
 # GMDprivateServer
 ## Geometry Dash Private Server
 Basically a Geometry Dash Server Emulator
